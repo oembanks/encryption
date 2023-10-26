@@ -63,3 +63,8 @@ String.prototype.state = function () {
       this
     );
 };
+
+
+var menu=[
+{id:`...`,category:`...`,title:`...`,description:`..`,uri:`..`,image:`.`,hash:`.`,media:.},
+{id:`...`,category:`...`,title:`...`,description:`..`,uri:`..`,image:`.`,hash:`.`,media:.},
